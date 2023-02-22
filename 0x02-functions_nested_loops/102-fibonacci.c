@@ -2,7 +2,7 @@
 
 /**
   *main - Print the first 52 fibonacci numbers
-  *Reture: Nothing!
+  *Return: Nothing!
   */
 int main(void)
 
